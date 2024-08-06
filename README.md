@@ -27,13 +27,14 @@ Este proyecto utiliza las siguientes tecnologías:
 - GitHub
 
 ## &#128296; Guía de clonación y configuración
-1. Clona el repositorio:
+
+1. Navega al directorio del proyecto:
+    ```bash
+    cd nombre_carpeta
+    ```
+2. Clona el repositorio:
     ```bash
     git clone https://github.com/oscmunozb/Clases_en_ES6.git
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd Clases_en_ES6
     ```
 3. Instala las dependencias del proyecto:
     ```bash
